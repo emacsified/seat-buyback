@@ -7,6 +7,6 @@ return [
     ],
     'evePraisal' => [
         'name' => 'EVEPraisal',
-        'apiUrl' => 'https://evepraisal.vaporlock.space'
+        'apiUrl' => 'https://evepraisal.ashmcbri.de'
     ]
 ];
